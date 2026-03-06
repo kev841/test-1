@@ -1,0 +1,15 @@
+# Ignore the virtual environment folder
+.venv/
+venv/
+env/
+
+# Ignore Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+
+# Ignore data/logs
+*.log
+.env
+
+# Ignore VS Code specific settings
+.vscode/
